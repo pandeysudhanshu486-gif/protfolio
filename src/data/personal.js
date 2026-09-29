@@ -33,8 +33,8 @@ export const personalData = {
     email: "mailto:pandeysudhanshu486@gmail.com"
   },
 
-  resumeUrl: "/resume.pdf",
-  profileImage: "/profile.jpg",
+  resumeUrl: "./resume.pdf",
+  profileImage: "./profile.jpg",
   availableForFreelance: true,
   lookingForInternships: true
 };

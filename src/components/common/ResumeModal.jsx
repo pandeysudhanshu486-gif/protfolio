@@ -131,7 +131,7 @@ const ResumeModal = ({ isOpen, onClose, onCopyEmail }) => {
                 <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>{personalData.college || 'Engineering Department'}</p>
               </div>
               <span style={{ fontSize: '0.85rem', color: 'var(--text-muted)', fontFamily: 'var(--font-mono)' }}>
-                2023 - 2027 (Expected)
+                2025 - 2029 (Expected)
               </span>
             </div>
           </div>
@@ -178,9 +178,9 @@ const ResumeModal = ({ isOpen, onClose, onCopyEmail }) => {
               Achievements & Problem Solving
             </h3>
             <div style={{ fontSize: '0.84rem', color: 'var(--text-secondary)', display: 'flex', flexDirection: 'column', gap: '0.35rem' }}>
-              <p>• <strong>LeetCode:</strong> 300+ Problems Solved across DSA (Arrays, Graphs, Trees, Dynamic Programming).</p>
-              <p>• <strong>Smart India Hackathon (SIH):</strong> Developed working AI prototype addressing national statements.</p>
-              <p>• <strong>CodeChef:</strong> Regular contest participation and competitive problem solving.</p>
+              <p>• <strong>LeetCode:</strong> 100+ Problems Solved across DSA • 1580 Contest Rating.</p>
+              <p>• <strong>CodeChef:</strong> 3★ Coder (Div 3 Competitor).</p>
+              <p>• <strong>Smart India Hackathon (SIH):</strong> AI Prototype addressing real-world problem statements.</p>
             </div>
           </div>
         </div>

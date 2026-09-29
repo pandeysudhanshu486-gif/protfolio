@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight, FileText, Github, Code2, Award, Terminal, Linkedin, Zap, Copy, Cpu } from 'lucide-react';
 import { personalData } from '../../data/personal';
+import profilePhoto from '../../assets/profile.jpg';
 
 const Hero = ({ onOpenResumeModal, onOpenRecruiterPitch, onCopyEmail }) => {
   const roleTags = [
@@ -227,8 +228,12 @@ const Hero = ({ onOpenResumeModal, onOpenRecruiterPitch, onCopyEmail }) => {
           >
             {/* Sudhanshu's Real Profile Photo */}
             <img
-              src={personalData.profileImage}
+              src={profilePhoto}
               alt={personalData.name}
+              onError={(e) => {
+                e.target.onerror = null;
+                e.target.src = './profile.jpg';
+              }}
               style={{
                 width: '100%',
                 height: '100%',
