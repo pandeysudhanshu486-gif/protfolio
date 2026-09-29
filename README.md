@@ -27,7 +27,7 @@
   <b>A developer-first, cyber-minimalist OS dashboard portfolio engineered for Sudhanshu Pandey (B.Tech Computer Science & Engineering @ ABES Engineering College, 2025–2029). Scalable, data-isolated, and architected for Tier-1 engineering internships, placements, and open-source collaboration.</b>
 </p>
 
-[⚡ Explore Live Demo](https://github.com/pandeysudhanshu486-gif/protfolio) • [📂 View Case Studies](#-featured-case-studies) • [🏛️ Architecture Diagram](#%EF%B8%8F-system-architecture--reactive-flow) • [🗺️ 4-Year Roadmap](#-4-year-computer-science-engineering-roadmap-2025--2029) • [📊 Live Stats](#-competitive-programming--github-live-stats)
+[⚡ Explore Live Demo](https://pandeysudhanshu486-gif.github.io/protfolio/) • [📂 View Case Studies](#-featured-case-studies) • [🏛️ Architecture Diagram](#%EF%B8%8F-system-architecture--reactive-flow) • [🗺️ 4-Year Roadmap](#-4-year-computer-science-engineering-roadmap-2025--2029) • [📊 Live Stats](#-competitive-programming--github-live-stats)
 
 ---
 
